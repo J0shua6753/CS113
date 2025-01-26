@@ -1,5 +1,5 @@
 # cs-113-assignments
-Repository for Professor Garcia's CS-113 assignments for Spring 2025! I haven't 
+Repository for Professor Garcia's CS-113 assignments for Spring 2025! I haven't quite figured out how git and github classroom yet so we shall see how this goes...
 
 ## Install Environment
 I am using VS Code on Windows and MacOS.
