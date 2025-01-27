@@ -11,8 +11,8 @@ I am using VS Code on Windows and MacOS.
 You will have to install Git.
 
 ## Schedule
-Week 1 [Progressions](Progressions)  
-Week 2  
+Week 1 [Proofs](Proofs)  
+Week 2 [Progressions](Progressions)  
 Week 3  
 Week 4  
 Week 5  
